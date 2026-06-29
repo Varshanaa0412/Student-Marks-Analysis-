@@ -1,24 +1,24 @@
-# Student Marks Analysis
+# 📊 Student Marks Analyzer
 
-## Project Description
-This project is developed using Python to analyze student marks.
+## About
+A Python program to analyze student performance 
+data and generate visual insights using charts.
 
-## Features
-- Accepts marks for multiple students
-- Calculates average marks
-- Finds highest and lowest marks
-- Assigns grades (A, B, C, Fail)
-- Counts passed and failed students
+## 🛠️ Tools Used
+- Python 3
+- Pandas
+- Matplotlib
 
-## Technologies Used
-- Python
+## ✨ Features
+- Calculates total pass and fail count
+- Visualizes student marks using bar charts
+- Generates performance trend insights
 
-## Code
+## ▶️ How to Run
+1. Clone this repository
+2. Install dependencies: pip install pandas matplotlib
+3. Run: python student_marks.py
 
-![Code Part 1](screenshots/code_part1.jpg)
-
-![Code Part 2](screenshots/code_part2.jpg)
-
-## Sample Output
-
-![Output](screenshots/output.jpg)
+## 📌 Key Insights
+- Identified pass/fail distribution across students
+- Visualized subject-wise performance trends
